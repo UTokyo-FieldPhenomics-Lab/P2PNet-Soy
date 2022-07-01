@@ -27,3 +27,4 @@ ISSN = {},
 DOI = {}
 }
 ```
+![](https://github.com/UTokyo-FieldPhenomics-Lab/P2PNet-Soy/blob/main/P13W_prediction_withGT.gif)
