@@ -10,7 +10,7 @@ It is heavily dependent on the original P2PNet: https://github.com/TencentYoutuR
 }  
 ```
   
-run P2PNet-Soy on your own data on Colab: [here]([https://colab.research.google.com/github.com/UTokyo-FieldPhenomics-Lab/P2PNet-Soy/blob/main/P2PNet_Soy.ipynb](https://colab.research.google.com/drive/1MZnoWrbFht19Del5tV8YdnaNS79Ryh5U?usp=sharing))
+run P2PNet-Soy on your own data on Colab: [here](https://colab.research.google.com/drive/1MZnoWrbFht19Del5tV8YdnaNS79Ryh5U?usp=sharing)
 
 Please cite this paper if you like it：  
 
