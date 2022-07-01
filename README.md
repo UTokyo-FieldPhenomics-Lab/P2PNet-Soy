@@ -1,7 +1,14 @@
 # P2PNet-Soy
 Soybean seed localization and counting based on dot annotated infield images.
 It is heavily dependent on the original P2PNet: https://github.com/TencentYoutuResearch/CrowdCounting-P2PNet
-  
+```latex
+@inproceedings{song2021rethinking,
+  title={Rethinking Counting and Localization in Crowds: A Purely Point-Based Framework},
+  author={Song, Qingyu and Wang, Changan and Jiang, Zhengkai and Wang, Yabiao and Tai, Ying and Wang, Chengjie and Li, Jilin and Huang, Feiyue and Wu, Yang},
+  journal={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  year={2021}
+}  
+```
   
 run P2PNet-Soy on your own data:
 
