@@ -1,5 +1,10 @@
-# P2PNet-Soy
-Soybean seed localization and counting based on dot annotated infield images.
+# P2PNet-Soy  
+Soybean seed localization and counting based on dot annotated infield images.  
+
+## Dataset  
+Please [fill this form](https://forms.gle/MmZrv642TYcBJsQ46) to get download link of labeled dataset and test dataset.  
+
+## source code of original P2PNet
 It is heavily dependent on the original P2PNet: https://github.com/TencentYoutuResearch/CrowdCounting-P2PNet
 ```latex
 @inproceedings{song2021rethinking,
@@ -9,7 +14,7 @@ It is heavily dependent on the original P2PNet: https://github.com/TencentYoutuR
   year={2021}
 }  
 ```
-  
+## source code of P2PNet-soy  
 run P2PNet-Soy with your own data on Colab: [here](https://colab.research.google.com/drive/1MZnoWrbFht19Del5tV8YdnaNS79Ryh5U?usp=sharing)
 
 Please cite this paper if you like it：  
