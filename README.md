@@ -32,8 +32,8 @@ ISSN = {},
 DOI = {}
 }
 ```
-## Got the first place in MLCAS2022 Soybean Pod Counting Challenge using similar strategies:
-https://mlcas2022.github.io/
+## Got the first place in MLCAS2022 Soybean Pod Counting Challenge (https://mlcas2022.github.io/)
+ using similar strategies:
 GitHub link to the dataset and relevant scripts can be found at : [here](https://github.com/ZJiangsan/MLCAS2022_Soypod_counting)
 
 ![](https://github.com/UTokyo-FieldPhenomics-Lab/P2PNet-Soy/blob/main/P13W_prediction_withGT.gif)
