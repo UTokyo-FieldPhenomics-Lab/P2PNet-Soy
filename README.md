@@ -23,13 +23,13 @@ Please cite this paper if you like it：
 @Article{zhao_P2PNet-Soy_2022,
 AUTHOR = { Zhao, Jiangsan and Kaga,Akito and Hirafuji,Masayuki and Ninomiya,Seishi and Guo, Wei},
 TITLE = {Improved infield soybean seed counting and localization with feature level considered},
-JOURNAL = {},
+JOURNAL = {PLANT PHENOMICS},
 VOLUME = {},
 YEAR = {},
 NUMBER = {},
 URL = {},
 ISSN = {},
-DOI = {}
+DOI = {10.34133/plantphenomics.0026}
 }
 ```
 ## Got the first place in MLCAS2022 Soybean Pod Counting Challenge (https://mlcas2022.github.io/) using similar strategies:
