@@ -15,7 +15,10 @@ It is heavily dependent on the original P2PNet: https://github.com/TencentYoutuR
 }  
 ```
 ## source code of P2PNet-soy  
-run P2PNet-Soy with your own data on Colab: [here](https://colab.research.google.com/drive/1MZnoWrbFht19Del5tV8YdnaNS79Ryh5U?usp=sharing)
+
+**\[Updates at 2025\]**: Please try our lastest [EasyP2PNet](https://github.com/UTokyo-FieldPhenomics-Lab/GrainCountingP2PNet) with much more user friendly API and supports for multi-class. But the demo data is grain counting not soybean counting.
+
+Or run original P2PNet-Soy code with your own data on Colab: [here](https://colab.research.google.com/drive/1MZnoWrbFht19Del5tV8YdnaNS79Ryh5U?usp=sharing)
 
 Please cite this paper if you like it：  
 
